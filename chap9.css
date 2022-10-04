@@ -62,5 +62,10 @@ footer{
     width: 100%;
     display: block;
   }
-  
+    .step-area{
+    width: 90%;
+    margin-bottom: 20px;
+    margin-left: 5%;
+    margin-right: 5%;
+  }
 }
